@@ -1,6 +1,6 @@
 # Credit to https://github.com/eeelbrens
 [buildPlans.Intersevka]
-family = "Iosevka Custom"
+family = "Intersevka"
 spacing = "normal"
 serifs = "sans"
 noCvSs = true
